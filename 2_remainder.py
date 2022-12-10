@@ -1,0 +1,1 @@
+num = input("Enter the number: ")## Add two numbersrem = int(num) % 2## Display the sumprint("The remainder of", num ,"and 2 is", rem)
