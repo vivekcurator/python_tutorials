@@ -15,6 +15,6 @@ print(" ")
 ##another method
 a = input("Enter the first number")
 b = input("Enter the second number")
-c = a+b
+c = int(a+b)
  
 print("The sum of "+a+" and "+b+" is "+c)
