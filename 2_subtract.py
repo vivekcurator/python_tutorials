@@ -1,1 +1,1 @@
-a = input("Enter the first number: ")b = input("Enter the second number: ")c = a-b print("The sum of "+a+" and "+b+" is "+c)
+num1 = int(input("Enter the first number "))num2 = int(input("Enter the second number "))  if num1 > num2:    diff = num1 - num2# num1 is less than num2else:    diff = num2 - num1# print difference valueprint('The difference between numbers =', diff)

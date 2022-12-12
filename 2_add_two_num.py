@@ -11,10 +11,3 @@ b = 20
 
 print("Sum of a and b is", a+b)
 print(" ")
-
-##another method
-a = input("Enter the first number")
-b = input("Enter the second number")
-c = int(a+b)
- 
-print("The sum of "+a+" and "+b+" is "+c)
